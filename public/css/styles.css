@@ -31,12 +31,11 @@ h2 {
 }
 
 .widget {
-  position: fixed;
-  top: 30%;
-  left: 31%;
+  margin-left: 37px;
+  margin-right: 10px;
   display: flex;
   height: 300px;
-  width: 600px;
+  max-width: 600px;
 
   flex-wrap: wrap;
   cursor: pointer;
